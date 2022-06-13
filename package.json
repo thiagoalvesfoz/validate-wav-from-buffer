@@ -1,0 +1,39 @@
+{
+  "name": "validate-wav-from-buffer",
+  "version": "1.0.0",
+  "description": "Checks if a buffer has valid WAV format",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagoalvesfoz/validate-wav-from-buffer.git"
+  },
+  "keywords": [
+    "wave",
+    "wav",
+    "format",
+    "webaudio",
+    "web audio",
+    "audio",
+    "ArrayBuffer",
+    "fmt",
+    "riff",
+    "wave",
+    "sound",
+    "buffer",
+    "arraybuffer",
+    "validate",
+    "info"
+  ],
+  "author": "Thiago Alves",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thiagoalvesfoz/validate-wav-from-buffer/issues"
+  },
+  "homepage": "https://github.com/thiagoalvesfoz/validate-wav-from-buffer#readme",
+  "dependencies": {
+    "buffer": "^6.0.3"
+  }
+}
